@@ -35,6 +35,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 /* 
 Developed by:NISHA.D
+
 RegisterNumber:212223230143
 
 */
